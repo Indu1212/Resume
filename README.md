@@ -1,6 +1,6 @@
 # Resume
 
-## Indu Mellempudi
+## *Indu Mellempudi*
 ==================
 
 ### Personal details
@@ -9,7 +9,8 @@
  - Mail id: mellempudiindu1212@gmail.com<br>
  - Phone no:+91 **********<br>
  - Address: krishna<br>
-  ## Educational Details
+ 
+ ## Educational Details
   
   **Btech**
   
@@ -55,8 +56,9 @@ I want to be a software developer in 'Python'
 
 - reading novels & books
 
-**Strengths & weaknesses**
-####Strengths
+## *Strengths & weaknesses*
+
+#### Strengths
 
 - logical thinking
  
@@ -65,7 +67,7 @@ I want to be a software developer in 'Python'
 #### weaknesses
  - can't say No to anything easily
  
- **Achievements**
+ ## **Achievements**
  
  - I got first price in shuttle & chess
  
