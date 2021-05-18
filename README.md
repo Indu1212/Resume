@@ -12,7 +12,7 @@
  
 ## Educational Details
   
-  ### Btech 
+### Btech 
   
    - Colage name: __DVR & DR.Hs MIC collage of Technology__<br>
    - Branch name: Information Technology<br>
@@ -20,7 +20,7 @@
    - Percentage: 86%<br>
    - Address of clg: Kanchikacherla<br>
 
-  ### Intemediate
+### Intemediate
   
    - Colage name: __Deeksha junior collage__ <br>
    - Branch name: MPC<br>
@@ -28,7 +28,7 @@
    - Percentage: 95%<br>
    - Address of clg: Nandigame<br>
 
-  ### SSC
+### SSC
 
    - School name:__Kakatiya Apollo Institutions__<br>
    - Year of study: 2016<br>
@@ -54,15 +54,15 @@ I want to be a software developer in 'Python'
 
  - Reading novels & books
 
-## *Strengths & weaknesses*
+## Strengths & weaknesses
 
- ### Strengths
+### Strengths
 
  - Logical thinking
  
  - Hardwork
 
- ### Weaknesses
+### Weaknesses
 
   - Can't say No to anything easily
  
