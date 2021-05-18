@@ -33,38 +33,38 @@
    - School name:__Kakatiya Apollo Institutions__<br>
    - Year of study: 2016<br>
    - Percentage: 92%<br>
-   - Address of clg: Kanchikacherla<br>
+   - Address of school: Kanchikacherla<br>
 
 ## Skills
 
- Python  |  80%
- c       |  90%
- java    |  60%
- DBMS    |  90%
+  Python  |  80%
+  c       |  90%
+  java    |  60%
+  DBMS    |  90%
 
 ## Goals
 
-I want to be a software developer in 'Python'
+  I want to be a software developer in 'Python'
 
 ## Hobbies 
 
- - Learning new  things
+  - Learning new  things
 
- - Playing chess
+  - Playing chess
 
- - Reading novels & books
+  - Reading novels & books
 
 ## Strengths & weaknesses
 
 ### Strengths
 
- - Logical thinking
+  - Logical thinking
  
- - Hardwork
+  - Hardwork
 
 ### Weaknesses
 
-  - Can't say No to anything easily
+   - Can't say No to anything easily
  
 ## Achievements
  
@@ -72,7 +72,7 @@ I want to be a software developer in 'Python'
 
 ## Project
  
- *Python Assistent*
+   *Python Assistent*
  
 
 
