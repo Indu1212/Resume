@@ -10,7 +10,7 @@
  - Phone no:+91 **********<br>
  - Address: krishna<br>
  
- ## Educational Details
+## Educational Details
   
   **Btech**
   
@@ -20,7 +20,7 @@
   - percentage: 86%<br>
   - Address of clg: Kanchikacherla<br>
 
-## Intemediate
+ **Intemediate**
   
   - colage name: __Deeksha junior collage__ <br>
   - Branch name: MPC<br>
@@ -28,7 +28,7 @@
   - percentage: 95%<br>
   - Address of clg: Nandigame<br>
 
-## ssc
+ **ssc**
 
   - school name:__Kakatiya Apollo Institutions__<br>
   - year of study: 2016<br>
@@ -65,7 +65,7 @@ I want to be a software developer in 'Python'
 #### weaknesses
  - can't say No to anything easily
  
- ## Achievements
+## Achievements
  
  - I got first price in shuttle & chess
 
