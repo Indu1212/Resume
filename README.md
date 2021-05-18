@@ -14,26 +14,26 @@
   
   ### Btech 
   
-  - Colage name: __DVR & DR.Hs MIC collage of Technology__<br>
-  - Branch name: Information Technology<br>
-  - Year of study: 2018-2022<br>
-  - Percentage: 86%<br>
-  - Address of clg: Kanchikacherla<br>
+   - Colage name: __DVR & DR.Hs MIC collage of Technology__<br>
+   - Branch name: Information Technology<br>
+   - Year of study: 2018-2022<br>
+   - Percentage: 86%<br>
+   - Address of clg: Kanchikacherla<br>
 
   ### Intemediate
   
-  - Colage name: __Deeksha junior collage__ <br>
-  - Branch name: MPC<br>
-  - Year of study: 2016-2018<br>
-  - Percentage: 95%<br>
-  - Address of clg: Nandigame<br>
+   - Colage name: __Deeksha junior collage__ <br>
+   - Branch name: MPC<br>
+   - Year of study: 2016-2018<br>
+   - Percentage: 95%<br>
+   - Address of clg: Nandigame<br>
 
   ### SSC
 
-  - School name:__Kakatiya Apollo Institutions__<br>
-  - Year of study: 2016<br>
-  - Percentage: 92%<br>
-  - Address of clg: Kanchikacherla<br>
+   - School name:__Kakatiya Apollo Institutions__<br>
+   - Year of study: 2016<br>
+   - Percentage: 92%<br>
+   - Address of clg: Kanchikacherla<br>
 
 ## Skills
 
@@ -48,27 +48,27 @@ I want to be a software developer in 'Python'
 
 ## Hobbies 
 
-- Learning new  things
+ - Learning new  things
 
-- Playing chess
+ - Playing chess
 
-- Reading novels & books
+ - Reading novels & books
 
 ## *Strengths & weaknesses*
 
  ### Strengths
 
-- Logical thinking
+ - Logical thinking
  
-- Hardwork
+ - Hardwork
 
  ### Weaknesses
 
- - Can't say No to anything easily
+  - Can't say No to anything easily
  
 ## Achievements
  
- - I got first price in shuttle & chess
+  - I got first price in shuttle & chess
 
 ## Project
  
