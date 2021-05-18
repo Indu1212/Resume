@@ -36,13 +36,14 @@
   - Address of clg: Kanchikacherla<br>
 
 ## Skills
-- Python  -  80%
 
-- c       -  90%
+ Python  |  80%
 
-- java    -  60%
+ c       |  90%
 
-- DBMS    -  90%
+ java    |  60%
+
+ DBMS    |  90%
 
 ## Goals
 
