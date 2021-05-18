@@ -1,9 +1,9 @@
 # Resume
 
-## *Indu Mellempudi*
+# *Indu Mellempudi*
 ==================
 
-### Personal details
+## Personal details
  
  - Name: Indu Mellempudi<br>
  - Mail id: mellempudiindu1212@gmail.com<br>
@@ -12,27 +12,27 @@
  
 ## Educational Details
   
-  **Btech**
+  ### Btech 
   
-  - colage name: __DVR & DR.Hs MIC collage of Technology__<br>
+  - Colage name: __DVR & DR.Hs MIC collage of Technology__<br>
   - Branch name: Information Technology<br>
-  - year of study: 2018-2022<br>
-  - percentage: 86%<br>
+  - Year of study: 2018-2022<br>
+  - Percentage: 86%<br>
   - Address of clg: Kanchikacherla<br>
 
- **Intemediate**
+  ### Intemediate
   
-  - colage name: __Deeksha junior collage__ <br>
+  - Colage name: __Deeksha junior collage__ <br>
   - Branch name: MPC<br>
-  - year of study: 2016-2018<br>
-  - percentage: 95%<br>
+  - Year of study: 2016-2018<br>
+  - Percentage: 95%<br>
   - Address of clg: Nandigame<br>
 
- **ssc**
+  ### SSC
 
-  - school name:__Kakatiya Apollo Institutions__<br>
-  - year of study: 2016<br>
-  - percentage: 92%<br>
+  - School name:__Kakatiya Apollo Institutions__<br>
+  - Year of study: 2016<br>
+  - Percentage: 92%<br>
   - Address of clg: Kanchikacherla<br>
 
 ## Skills
@@ -48,22 +48,23 @@ I want to be a software developer in 'Python'
 
 ## Hobbies 
 
-- learning new  things
+- Learning new  things
 
-- playing chess
+- Playing chess
 
-- reading novels & books
+- Reading novels & books
 
 ## *Strengths & weaknesses*
 
-#### Strengths
+ ### Strengths
 
-- logical thinking
+- Logical thinking
  
-- hardwork
+- Hardwork
 
-#### weaknesses
- - can't say No to anything easily
+ ### Weaknesses
+
+ - Can't say No to anything easily
  
 ## Achievements
  
