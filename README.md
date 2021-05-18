@@ -65,7 +65,7 @@ I want to be a software developer in 'Python'
 #### weaknesses
  - can't say No to anything easily
  
- ## **Achievements**
+ ## Achievements
  
  - I got first price in shuttle & chess
 
