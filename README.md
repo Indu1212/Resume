@@ -38,11 +38,8 @@
 ## Skills
 
  Python  |  80%
-
  c       |  90%
-
  java    |  60%
-
  DBMS    |  90%
 
 ## Goals
