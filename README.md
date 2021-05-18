@@ -71,7 +71,6 @@ I want to be a software developer in 'Python'
  
  - I got first price in shuttle & chess
  
- 
 
 
 
