@@ -7,7 +7,7 @@
  
  - Name: Indu Mellempudi<br>
  - Mail id: mellempudiindu1212@gmail.com<br>
- - Phone no:+91 **********<br>
+ - Phone no:+91 xxxxxxxxx <br>
  - Address: krishna<br>
  
 ## Educational Details
