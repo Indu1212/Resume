@@ -70,6 +70,10 @@ I want to be a software developer in 'Python'
  ## **Achievements**
  
  - I got first price in shuttle & chess
+
+## Project
+ 
+ *Python Assistent*
  
 
 
